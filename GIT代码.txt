@@ -1,0 +1,17 @@
+
+cd d:text
+git init
+
+git add .
+
+将所有文件添加到仓库
+
+git commit -m "提交文件"
+
+git remote add origin   https://github.com/1136899882/test.git
+关联到github 仓库
+
+上传本地代码
+git push -u origin master 
+
+
